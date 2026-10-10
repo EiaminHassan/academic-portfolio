@@ -1,5 +1,6 @@
 ---
 title: "About"
+url: "/about.html"
 role: "Graduate Teaching Assistant"
 bio: "M.Sc. in CSE student specializing in Data Science, Machine Learning, and NLP."
 date: 2025-01-01
