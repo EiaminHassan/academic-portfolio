@@ -35,6 +35,10 @@ hugo
 
 The generated files are written to `public/`.
 
+Vercel uses the same Hugo build command and deploys `public/` as the output
+directory. If the project has an existing Vercel project configuration, make
+sure its root directory points to this repository so `vercel.json` is applied.
+
 ## Project structure
 
 ```text
