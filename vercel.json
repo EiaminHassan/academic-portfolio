@@ -1,5 +1,15 @@
 {
   "buildCommand": "hugo --gc --minify",
   "outputDirectory": "public",
-  "framework": "hugo"
+  "framework": "hugo",
+  "rewrites": [
+    {
+      "source": "/about",
+      "destination": "/about/index.html"
+    },
+    {
+      "source": "/about/",
+      "destination": "/about/index.html"
+    }
+  ]
 }
