@@ -1,0 +1,14 @@
+{{ define "main" }}
+<section class="page-heading container"><p class="eyebrow">{{ if eq .Section "publications" }}Research output{{ else if eq .Section "projects" }}Selected work{{ else if eq .Section "experience" }}Teaching & service{{ else }}Milestones{{ end }}</p><h1>{{ .Title }}</h1><p>{{ .Description }}</p></section>
+<section class="container content-grid section-{{ .Section }}">
+{{ range .Pages.ByDate.Reverse }}
+  <article class="content-card">
+    {{ if eq .Section "publications" }}<div class="card-top"><span class="status status-{{ lower .Params.status }}">{{ .Params.status }}</span><time>{{ .Date.Format "2006" }}</time></div><h2>{{ .Title }}</h2><p class="muted">{{ delimit .Params.authors ", " }}</p><p class="muted">{{ .Params.publication }}</p><div class="tag-list">{{ range .Params.tags }}<span>{{ . }}</span>{{ end }}</div><div class="card-actions"><a class="text-link" href="{{ .RelPermalink }}">Read abstract <span>↗</span></a></div>
+    {{ else if eq .Section "projects" }}<div class="card-top"><span class="project-label">PROJECT</span><time>{{ .Date.Format "2006" }}</time></div><h2>{{ .Title }}</h2><p>{{ .Summary }}</p><div class="tag-list">{{ range .Params.tech }}<span>{{ . }}</span>{{ end }}</div><div class="card-actions"><a class="button button-small" href="{{ .RelPermalink }}">View project</a>{{ with .Params.demo }}<a class="text-link" href="{{ . }}">Live demo ↗</a>{{ end }}</div>
+    {{ else if eq .Section "experience" }}<div class="timeline-dot"></div><div class="card-top"><span class="project-label">{{ .Params.institution }}</span><time>{{ .Params.period }}</time></div><h2>{{ .Title }}</h2><p class="muted">{{ .Params.department }}</p><div class="prose">{{ .Content }}</div>
+    {{ else }}<div class="outcome">{{ .Params.result }}</div><div class="card-top"><span class="project-label">{{ .Params.team }}</span><time>{{ .Date.Format "2006" }}</time></div><h2>{{ .Title }}</h2><div class="prose">{{ .Content }}</div>
+    {{ end }}
+  </article>
+{{ end }}
+</section>
+{{ end }}

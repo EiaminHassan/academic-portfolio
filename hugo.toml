@@ -1,0 +1,45 @@
+baseURL = 'https://eiaminshanto.github.io/'
+locale = 'en-us'
+defaultContentLanguage = 'en'
+title = 'Eiamin Hassan Shanto | Academic Portfolio'
+theme = 'ananke'
+
+[params]
+  author = "Eiamin Hassan Shanto"
+  description = "Graduate Teaching Assistant & Data Science Researcher"
+  email = "shanto15-5251@diu.edu.bd"
+  location = "Dhaka, Bangladesh"
+  avatar = "EH"
+  github = "https://github.com/"
+  linkedin = "https://www.linkedin.com/"
+  scholar = "https://scholar.google.com/"
+  cgpa = "3.91 / 4.00"
+  role = "Graduate Teaching Assistant & Data Science Researcher"
+  interests = ["Data Science", "Machine Learning", "NLP", "Computer Vision", "LLMs"]
+  skills = [
+    { category = "Languages & Core", items = ["Python", "C", "C++", "Data Structures", "OOP"] },
+    { category = "Data Science & ML", items = ["NumPy", "Pandas", "Scikit-learn", "Deep Learning", "NLP"] },
+    { category = "Tools & Frameworks", items = ["Git", "LaTeX", "Streamlit", "FastAPI", "Docker", "FAISS"] }
+  ]
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+  [[menu.main]]
+    name = "Publications"
+    url = "/publications/"
+    weight = 2
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 3
+  [[menu.main]]
+    name = "Experience"
+    url = "/experience/"
+    weight = 4
+  [[menu.main]]
+    name = "Achievements"
+    url = "/achievements/"
+    weight = 5

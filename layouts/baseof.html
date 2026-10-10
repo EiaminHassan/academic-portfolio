@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="{{ site.Language.Lang }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ site.Params.description }}">
+    <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} · {{ site.Title }}{{ end }}</title>
+    {{ $css := resources.Get "css/site.css" | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+    <script>
+      document.documentElement.classList.add('js');
+      if (localStorage.theme === 'dark' || (!localStorage.theme && window.matchMedia('(prefers-color-scheme: dark)').matches)) document.documentElement.dataset.theme = 'dark';
+    </script>
+  </head>
+  <body>
+    {{ partial "header.html" . }}
+    <main id="main-content">{{ block "main" . }}{{ end }}</main>
+    {{ partial "footer.html" . }}
+    {{ $js := resources.Get "js/site.js" | minify | fingerprint }}
+    <script src="{{ $js.RelPermalink }}" defer></script>
+  </body>
+</html>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Experiences on Eiamin Hassan Shanto | Academic Portfolio</title>
+		<link>http://localhost:1313/experience/</link>
+		<description>Recent content in Experiences on Eiamin Hassan Shanto | Academic Portfolio</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/experience/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Graduate Teaching Assistant</title>
+				<link>http://localhost:1313/experience/ta-diu/</link>
+				<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/experience/ta-diu/</guid>
+				<description>&lt;ul&gt;&#xA;&lt;li&gt;Assist faculty in conducting undergraduate theory courses including Engineering Mathematics, Data Communication &amp;amp; Computer Networking, and Business Mathematics.&lt;/li&gt;&#xA;&lt;li&gt;Support course assessment, assignments, quizzes, and academic mentoring.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+	</channel>
+</rss>

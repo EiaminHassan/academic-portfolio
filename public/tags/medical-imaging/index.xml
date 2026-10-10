@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Medical Imaging on Eiamin Hassan Shanto | Academic Portfolio</title>
+		<link>http://localhost:1313/tags/medical-imaging/</link>
+		<description>Recent content in Medical Imaging on Eiamin Hassan Shanto | Academic Portfolio</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/medical-imaging/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Advanced Hybrid CNN-ViT Ensemble with Attention and FPN Mechanism for Retinal OCT Disease Classification</title>
+				<link>http://localhost:1313/publications/oct-classification/</link>
+				<pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/publications/oct-classification/</guid>
+				<description>&lt;p&gt;Published at the International Conference on Intelligent Data Analysis and Applications (IDAA 2025).&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
