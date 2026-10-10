@@ -1,1 +1,80 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Eiamin Hassan Shanto | Academic Portfolio</title><link>https://eiaminshanto.github.io/</link><description>Recent content on Eiamin Hassan Shanto | Academic Portfolio</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://eiaminshanto.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Conversational AI Chatbot</title><link>https://eiaminshanto.github.io/projects/ai-chatbot/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate><guid>https://eiaminshanto.github.io/projects/ai-chatbot/</guid><description>&lt;p&gt;A conversational interface exploring practical NLP workflows and approachable AI-assisted user experiences.&lt;/p&gt;</description></item><item><title>Diabetes Prediction Web App: End-to-End ML Deployment</title><link>https://eiaminshanto.github.io/projects/diabetes-prediction/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate><guid>https://eiaminshanto.github.io/projects/diabetes-prediction/</guid><description>&lt;p&gt;An end-to-end machine learning application with exploratory analysis, five trained classification models, and a containerized deployment on Hugging Face Docker Spaces.&lt;/p&gt;</description></item><item><title>Financial Intelligence Agent</title><link>https://eiaminshanto.github.io/projects/financial-agent/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate><guid>https://eiaminshanto.github.io/projects/financial-agent/</guid><description>&lt;p&gt;An intelligent assistant concept for exploring financial information and producing grounded, explainable insights.&lt;/p&gt;</description></item><item><title>Graduate Teaching Assistant</title><link>https://eiaminshanto.github.io/experience/ta-diu/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate><guid>https://eiaminshanto.github.io/experience/ta-diu/</guid><description>&lt;ul&gt;&#10;&lt;li&gt;Assist faculty in conducting undergraduate theory courses including Engineering Mathematics, Data Communication &amp;amp; Computer Networking, and Business Mathematics.&lt;/li&gt;&#10;&lt;li&gt;Support course assessment, assignments, quizzes, and academic mentoring.&lt;/li&gt;&#10;&lt;/ul&gt;</description></item><item><title>PDF-Based Retrieval-Augmented Generation (RAG) System</title><link>https://eiaminshanto.github.io/projects/rag-application/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate><guid>https://eiaminshanto.github.io/projects/rag-application/</guid><description>&lt;p&gt;An end-to-end RAG architecture for document question answering, featuring PDF ingestion, chunking, vector storage with FAISS, and response generation via the Google Gemini API.&lt;/p&gt;</description></item><item><title>About</title><link>https://eiaminshanto.github.io/about/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://eiaminshanto.github.io/about/</guid><description>&lt;p&gt;I am a Graduate Teaching Assistant in the Department of Information Technology &amp;amp; Management at Daffodil International University. I hold a B.Sc. in Computer Science and Engineering (CGPA 3.91/4.00) and am currently pursuing my M.Sc. in CSE with a major in Data Science.&lt;/p&gt;</description></item><item><title>Advanced Hybrid CNN-ViT Ensemble with Attention and FPN Mechanism for Retinal OCT Disease Classification</title><link>https://eiaminshanto.github.io/publications/oct-classification/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://eiaminshanto.github.io/publications/oct-classification/</guid><description>&lt;p&gt;Retinal diseases can be considered one of the leading causes of vision loss on the global scene, and OCT imaging is crucial in the timely diagnosis of the disease. In this paper, a hybrid model of deep learning, which combines Convolutional Neural Networks (CNNs), Vision Transformers (ViTs), Feature Pyramid Networks (FPN) and cross-modal attention, is proposed to simultaneously exploit local retinal texture and global structural features. An ensemble mechanism is used to combine three fusion strategies into attention-based, concatenation strategy, and weighted fusion to enhance robustness and accuracy. Experiments on a publicly available OCTDL dataset of seven disease classes get 96.3% accuracy and a 95.1% macro F1-score and outperform the traditional CNN and ViT baselines. These results prove the high promise of the hybrid ensemble models towards the effective retinal OCT multi-disease classification.&lt;/p&gt;</description></item><item><title>National Datathon | CUET CSE Fest 2025</title><link>https://eiaminshanto.github.io/achievements/datathon-2025/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://eiaminshanto.github.io/achievements/datathon-2025/</guid><description>&lt;p&gt;Organized by the Computer Science &amp;amp; Engineering Department, Chittagong University of Engineering &amp;amp; Technology (CUET).&lt;/p&gt;</description></item><item><title>Smart Crop Monitoring: Assessing Deep Learning Architectures for Multi-Class Citrus Leaf Disease Recognition</title><link>https://eiaminshanto.github.io/publications/citrus-leaf/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://eiaminshanto.github.io/publications/citrus-leaf/</guid><description>&lt;p&gt;Accepted at the International Conference on Intelligent Data Analysis and Applications (IDAA 2025).&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Eiamin Hassan Shanto | Academic Portfolio</title>
+		<link>https://eiaminshanto.github.io/</link>
+		<description>Recent content on Eiamin Hassan Shanto | Academic Portfolio</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://eiaminshanto.github.io/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Conversational AI Chatbot</title>
+				<link>https://eiaminshanto.github.io/projects/ai-chatbot/</link>
+				<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+				<guid>https://eiaminshanto.github.io/projects/ai-chatbot/</guid>
+				<description>&lt;p&gt;A conversational interface exploring practical NLP workflows and approachable AI-assisted user experiences.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Diabetes Prediction Web App: End-to-End ML Deployment</title>
+				<link>https://eiaminshanto.github.io/projects/diabetes-prediction/</link>
+				<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+				<guid>https://eiaminshanto.github.io/projects/diabetes-prediction/</guid>
+				<description>&lt;p&gt;An end-to-end machine learning application with exploratory analysis, five trained classification models, and a containerized deployment on Hugging Face Docker Spaces.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Financial Intelligence Agent</title>
+				<link>https://eiaminshanto.github.io/projects/financial-agent/</link>
+				<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+				<guid>https://eiaminshanto.github.io/projects/financial-agent/</guid>
+				<description>&lt;p&gt;An intelligent assistant concept for exploring financial information and producing grounded, explainable insights.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Graduate Teaching Assistant</title>
+				<link>https://eiaminshanto.github.io/experience/ta-diu/</link>
+				<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+				<guid>https://eiaminshanto.github.io/experience/ta-diu/</guid>
+				<description>&lt;ul&gt;&#xA;&lt;li&gt;Assist faculty in conducting undergraduate theory courses including Engineering Mathematics, Data Communication &amp;amp; Computer Networking, and Business Mathematics.&lt;/li&gt;&#xA;&lt;li&gt;Support course assessment, assignments, quizzes, and academic mentoring.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>PDF-Based Retrieval-Augmented Generation (RAG) System</title>
+				<link>https://eiaminshanto.github.io/projects/rag-application/</link>
+				<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+				<guid>https://eiaminshanto.github.io/projects/rag-application/</guid>
+				<description>&lt;p&gt;An end-to-end RAG architecture for document question answering, featuring PDF ingestion, chunking, vector storage with FAISS, and response generation via the Google Gemini API.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>About</title>
+				<link>https://eiaminshanto.github.io/about/</link>
+				<pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+				<guid>https://eiaminshanto.github.io/about/</guid>
+				<description>&lt;p&gt;I am a Graduate Teaching Assistant in the Department of Information Technology &amp;amp; Management at Daffodil International University. I hold a B.Sc. in Computer Science and Engineering (CGPA 3.91/4.00) and am currently pursuing my M.Sc. in CSE with a major in Data Science.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Advanced Hybrid CNN-ViT Ensemble with Attention and FPN Mechanism for Retinal OCT Disease Classification</title>
+				<link>https://eiaminshanto.github.io/publications/oct-classification/</link>
+				<pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+				<guid>https://eiaminshanto.github.io/publications/oct-classification/</guid>
+				<description>&lt;p&gt;Retinal diseases can be considered one of the leading causes of vision loss on the global scene, and OCT imaging is crucial in the timely diagnosis of the disease. In this paper, a hybrid model of deep learning, which combines Convolutional Neural Networks (CNNs), Vision Transformers (ViTs), Feature Pyramid Networks (FPN) and cross-modal attention, is proposed to simultaneously exploit local retinal texture and global structural features. An ensemble mechanism is used to combine three fusion strategies into attention-based, concatenation strategy, and weighted fusion to enhance robustness and accuracy. Experiments on a publicly available OCTDL dataset of seven disease classes get 96.3% accuracy and a 95.1% macro F1-score and outperform the traditional CNN and ViT baselines. These results prove the high promise of the hybrid ensemble models towards the effective retinal OCT multi-disease classification.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>National Datathon | CUET CSE Fest 2025</title>
+				<link>https://eiaminshanto.github.io/achievements/datathon-2025/</link>
+				<pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+				<guid>https://eiaminshanto.github.io/achievements/datathon-2025/</guid>
+				<description>&lt;p&gt;Organized by the Computer Science &amp;amp; Engineering Department, Chittagong University of Engineering &amp;amp; Technology (CUET).&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Smart Crop Monitoring: Assessing Deep Learning Architectures for Multi-Class Citrus Leaf Disease Recognition</title>
+				<link>https://eiaminshanto.github.io/publications/citrus-leaf/</link>
+				<pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+				<guid>https://eiaminshanto.github.io/publications/citrus-leaf/</guid>
+				<description>&lt;p&gt;Accepted at the International Conference on Intelligent Data Analysis and Applications (IDAA 2025).&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

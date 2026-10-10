@@ -1,1 +1,52 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Eiamin Hassan Shanto | Academic Portfolio</title><link>https://eiaminshanto.github.io/tags/</link><description>Recent content in Tags on Eiamin Hassan Shanto | Academic Portfolio</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://eiaminshanto.github.io/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Agriculture</title><link>https://eiaminshanto.github.io/tags/agriculture/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://eiaminshanto.github.io/tags/agriculture/</guid><description/></item><item><title>Computer Vision</title><link>https://eiaminshanto.github.io/tags/computer-vision/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://eiaminshanto.github.io/tags/computer-vision/</guid><description/></item><item><title>Deep Learning</title><link>https://eiaminshanto.github.io/tags/deep-learning/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://eiaminshanto.github.io/tags/deep-learning/</guid><description/></item><item><title>Medical Imaging</title><link>https://eiaminshanto.github.io/tags/medical-imaging/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://eiaminshanto.github.io/tags/medical-imaging/</guid><description/></item><item><title>Vision Transformer</title><link>https://eiaminshanto.github.io/tags/vision-transformer/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://eiaminshanto.github.io/tags/vision-transformer/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Tags on Eiamin Hassan Shanto | Academic Portfolio</title>
+		<link>https://eiaminshanto.github.io/tags/</link>
+		<description>Recent content in Tags on Eiamin Hassan Shanto | Academic Portfolio</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://eiaminshanto.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Agriculture</title>
+				<link>https://eiaminshanto.github.io/tags/agriculture/</link>
+				<pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+				<guid>https://eiaminshanto.github.io/tags/agriculture/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Computer Vision</title>
+				<link>https://eiaminshanto.github.io/tags/computer-vision/</link>
+				<pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+				<guid>https://eiaminshanto.github.io/tags/computer-vision/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Deep Learning</title>
+				<link>https://eiaminshanto.github.io/tags/deep-learning/</link>
+				<pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+				<guid>https://eiaminshanto.github.io/tags/deep-learning/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Medical Imaging</title>
+				<link>https://eiaminshanto.github.io/tags/medical-imaging/</link>
+				<pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+				<guid>https://eiaminshanto.github.io/tags/medical-imaging/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Vision Transformer</title>
+				<link>https://eiaminshanto.github.io/tags/vision-transformer/</link>
+				<pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+				<guid>https://eiaminshanto.github.io/tags/vision-transformer/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

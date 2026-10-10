@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Agriculture on Eiamin Hassan Shanto | Academic Portfolio</title><link>https://eiaminshanto.github.io/tags/agriculture/</link><description>Recent content in Agriculture on Eiamin Hassan Shanto | Academic Portfolio</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://eiaminshanto.github.io/tags/agriculture/index.xml" rel="self" type="application/rss+xml"/><item><title>Smart Crop Monitoring: Assessing Deep Learning Architectures for Multi-Class Citrus Leaf Disease Recognition</title><link>https://eiaminshanto.github.io/publications/citrus-leaf/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://eiaminshanto.github.io/publications/citrus-leaf/</guid><description>&lt;p&gt;Accepted at the International Conference on Intelligent Data Analysis and Applications (IDAA 2025).&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Agriculture on Eiamin Hassan Shanto | Academic Portfolio</title>
+		<link>https://eiaminshanto.github.io/tags/agriculture/</link>
+		<description>Recent content in Agriculture on Eiamin Hassan Shanto | Academic Portfolio</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://eiaminshanto.github.io/tags/agriculture/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Smart Crop Monitoring: Assessing Deep Learning Architectures for Multi-Class Citrus Leaf Disease Recognition</title>
+				<link>https://eiaminshanto.github.io/publications/citrus-leaf/</link>
+				<pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+				<guid>https://eiaminshanto.github.io/publications/citrus-leaf/</guid>
+				<description>&lt;p&gt;Accepted at the International Conference on Intelligent Data Analysis and Applications (IDAA 2025).&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

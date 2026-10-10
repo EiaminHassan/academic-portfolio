@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Achievements on Eiamin Hassan Shanto | Academic Portfolio</title><link>https://eiaminshanto.github.io/achievements/</link><description>Recent content in Achievements on Eiamin Hassan Shanto | Academic Portfolio</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://eiaminshanto.github.io/achievements/index.xml" rel="self" type="application/rss+xml"/><item><title>National Datathon | CUET CSE Fest 2025</title><link>https://eiaminshanto.github.io/achievements/datathon-2025/</link><pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate><guid>https://eiaminshanto.github.io/achievements/datathon-2025/</guid><description>&lt;p&gt;Organized by the Computer Science &amp;amp; Engineering Department, Chittagong University of Engineering &amp;amp; Technology (CUET).&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Achievements on Eiamin Hassan Shanto | Academic Portfolio</title>
+		<link>https://eiaminshanto.github.io/achievements/</link>
+		<description>Recent content in Achievements on Eiamin Hassan Shanto | Academic Portfolio</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://eiaminshanto.github.io/achievements/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>National Datathon | CUET CSE Fest 2025</title>
+				<link>https://eiaminshanto.github.io/achievements/datathon-2025/</link>
+				<pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+				<guid>https://eiaminshanto.github.io/achievements/datathon-2025/</guid>
+				<description>&lt;p&gt;Organized by the Computer Science &amp;amp; Engineering Department, Chittagong University of Engineering &amp;amp; Technology (CUET).&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
